@@ -60,7 +60,7 @@ Python • PHP • Dart (Flutter) • Java • Kotlin • C++ • C • Go • H
 - Debugging with x64dbg / Ghidra  
 - Binary Patching & Application Modification  
 - App Modding  
-- Game Research & Cheat Development (Technical Research Context)  
+- Game Research & Cheat Development
 - Web Application Pentesting  
 - APK Reverse Engineering  
 - Vulnerability Research  
