@@ -1,17 +1,3 @@
-<div align="center">
-
-<svg width="120" height="120" viewBox="0 0 200 200">
-  <defs>
-    <linearGradient id="gradX" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00F0FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8A2BE2;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="55%" text-anchor="middle" fill="url(#gradX)" font-size="120" font-family="monospace" font-weight="bold">X</text>
-</svg>
-
-<h1>Ho3einX</h1>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=800&lines=Senior+Application+Engineer;Reverse+Engineering+Specialist;Security+Engineer;Software+Architect;Linux+Power+User" />
 
 </div>
