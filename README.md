@@ -1,28 +1,41 @@
-# CipherX
+# <div align="center">Cipher X</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Application+Engineer;Reverse+Engineering+Specialist;Security+Engineer;Software+Architect;Linux+Enthusiast" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=Senior+Application+Engineer;Reverse+Engineering+Specialist;Security+Engineer;Software+Architect;Linux+Power+User;Offensive+Security+Researcher" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Ho3einXE&color=blueviolet&style=for-the-badge)](https://github.com/Ho3einXE)
+[![GitHub followers](https://img.shields.io/github/followers/Ho3einXE?label=Followers&style=for-the-badge)](https://github.com/Ho3einXE)
+[![GitHub Stars](https://img.shields.io/github/stars/Ho3einXE?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/Ho3einXE)
+
+</div>
 
 ---
 
 ## About Me
 
-I am a multidisciplinary Software Engineer specializing in application development, reverse engineering, and security research.  
-My expertise spans low-level system analysis, mobile and desktop application architecture, and offensive security testing.
+Senior Software Engineer with strong expertise in Application Development, Reverse Engineering, and Security Research.
 
-I focus on understanding how systems truly work — from machine code to distributed applications.
+I specialize in understanding software at the lowest possible level — from assembly instructions and binary structures to scalable modern application architectures.
+
+My focus areas include secure application design, offensive security research, binary analysis, and system-level engineering.
 
 ---
 
 ## Professional Roles
 
-- Application Engineer  
+- Senior Application Engineer  
 - Reverse Engineering Specialist  
-- Software Architect (Android / Windows)  
 - Security Engineer  
-- Web & Application Pentester  
-- Linux Systems Enthusiast  
+- Software Architect (Android / Windows)  
+- Web & Application Penetration Tester  
+- Linux Systems Specialist  
 
 ---
 
@@ -30,8 +43,8 @@ I focus on understanding how systems truly work — from machine code to distrib
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,flutter,java,kotlin,cpp,c,go,html,css,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,flutter,java,kotlin,cpp,c,go,html,css,bootstrap,linux,windows,android" />
 </p>
 
 - Python  
@@ -42,76 +55,79 @@ I focus on understanding how systems truly work — from machine code to distrib
 - C++  
 - C  
 - Go  
-- HTML5  
-- CSS3  
+- HTML5 / CSS3  
 - Bootstrap  
 
 ---
 
-## Security & Reverse Engineering Expertise
+## Reverse Engineering & Security Expertise
 
-- Reverse Engineering of Native Applications  
-- Static & Dynamic Binary Analysis  
-- Windows PE Structure Analysis  
-- Debugging (x64dbg / Ghidra / IDA)  
+- Native Binary Analysis (Windows PE)  
+- Static & Dynamic Analysis  
+- Assembly (x86 / x64)  
+- Debugging with x64dbg / Ghidra / IDA  
+- Binary Patching & Modification  
 - Application Modding  
-- Binary Patching  
-- Game Modification & Cheat Development  
+- Game Cheat Development (Research Context)  
 - Web Application Penetration Testing  
-- APK / Mobile Application Security Testing  
-- Exploit Analysis  
-- Vulnerability Research  
-
----
-
-## Core Competencies
-
-- Crack Application Analysis  
-- Game Cheat Creation  
-- App Modding  
-- Web Pentesting  
 - APK Reverse Engineering  
-- Secure Software Design  
-- Clean Architecture (Mobile & Desktop)  
-- Low-Level Debugging  
-- Linux System Operations  
+- Vulnerability Discovery  
+- Secure Architecture Design  
 
 ---
 
-## Operating Systems & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,android" />
-</p>
-
-- Linux (Advanced User)  
-- Windows Internals Familiarity  
-- Android System Architecture  
-
----
-
-## Development & Architecture
+## Architecture & Engineering Strengths
 
 - Clean Architecture  
-- Modular Design  
-- Object-Oriented Design  
-- RESTful APIs  
-- Performance Optimization  
-- Memory Management (C/C++)  
+- Modular Software Design  
 - Secure Coding Practices  
+- Memory Management (C / C++)  
+- Performance Optimization  
+- System-Level Debugging  
+- RESTful API Design  
+- Android Application Architecture  
+- Windows Desktop Engineering  
+
+---
+
+## Operating Systems
+
+- Advanced Linux User  
+- Windows Internals Familiarity  
+- Android System Understanding  
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho3einXE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einXE&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ho3einXE&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ho3einXE&theme=tokyonight" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ho3einXE&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
@@ -119,34 +135,76 @@ I focus on understanding how systems truly work — from machine code to distrib
 
 - Binary Exploitation  
 - Malware Analysis  
+- Anti-Debug & Anti-Tamper Techniques  
 - Software Protection Mechanisms  
-- Anti-Debugging Techniques  
-- Secure Application Architecture  
 - Distributed Systems  
-
----
-
-## Selected Domains
-
-- Application Security  
-- Offensive Security  
-- Software Engineering  
-- System Programming  
-- Android Internals  
-- Windows Internals  
-
----
-
-## Philosophy
-
-Understanding a system at the lowest level provides the power to build it securely at the highest level.
+- Secure Mobile Development  
 
 ---
 
 ## Contact
 
-- Email: cipherho3einx@gmail.com  
-- GitHub: https://github.com/Ho3einX
-- Telegram: @MrYuXu
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Ho3einX)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:cipherho3einx@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/MrYuXu)
+
+</div>
 
 ---
+
+
+## درباره من
+
+مهندس نرم‌افزار ارشد با تخصص در توسعه اپلیکیشن، مهندسی معکوس و پژوهش‌های امنیتی.
+
+تمرکز اصلی من درک عمیق ساختار نرم‌افزار از سطح باینری و اسمبلی تا طراحی معماری‌های مدرن و مقیاس‌پذیر است.
+
+در حوزه طراحی امن، تحلیل باینری، تست نفوذ و معماری نرم‌افزار تجربه عملی دارم.
+
+---
+
+## نقش‌های حرفه‌ای
+
+- مهندس ارشد اپلیکیشن  
+- متخصص مهندسی معکوس  
+- مهندس امنیت  
+- معمار نرم‌افزار (اندروید / ویندوز)  
+- تست نفوذ وب و اپلیکیشن  
+- کاربر پیشرفته لینوکس  
+
+---
+
+## مهارت‌های کلیدی
+
+- تحلیل و Crack اپلیکیشن  
+- Modding برنامه‌ها  
+- تحلیل و ایجاد Cheat در بازی (در چارچوب پژوهشی)  
+- تست نفوذ وب  
+- مهندسی معکوس APK  
+- تحلیل فایل‌های اجرایی ویندوز  
+- دیباگ سطح پایین  
+- طراحی معماری تمیز  
+
+---
+
+## دیدگاه حرفه‌ای
+
+درک عمیق از ساختار داخلی سیستم‌ها، پایه‌ای‌ترین شرط برای طراحی نرم‌افزارهای امن و پایدار است.
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ho3einXE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+
+</div>
