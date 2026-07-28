@@ -80,29 +80,7 @@ Advanced Linux User • Windows Internals Familiarity • Android System Archite
 
 </sub>
 
----
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einX&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ho3einX&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ho3einX&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 ## Achievements & Profile Metrics
 
